@@ -1,6 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
-
+//template start
 template <class X, class Y>
 ostream &operator<<(ostream &os, pair<X, Y> const &p)
 {
